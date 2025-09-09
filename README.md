@@ -25,4 +25,3 @@ Antes de executar o projeto, certifique-se de ter o Python instalado e instale a
 
 ```bash
 pip install streamlit requests
-
